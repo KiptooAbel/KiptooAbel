@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Software Engi
 - 📈 Learning about **Crypto, Investing, and Passive Income**
 
 ## 📫 Let's Connect!
-- 🌐 [Website/Portfolio](#) *(Coming soon!)*
+- 🌐 [Website/Portfolio]([#](https://abelk.dev/))
 - 🔗 [LinkedIn](https://linkedin.com/in/yourhandle)
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
