@@ -1,6 +1,6 @@
-# Hi there, I'm Kiptoo Abel! 👋
+# Hi there, I'm Abel Kiprop! 👋
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Software Engineer** passionate about building scalable web applications and solving real-world problems with code.
+Welcome to my GitHub profile! I'm a **Software Engineer** specilised in**Full-Stack Development** and  passionate about building scalable web applications and solving real-world problems with code.
 
 ## 🚀 About Me
 - 💻 Experienced in **Laravel, Inertia.js, React, and Tailwind CSS**
@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Software Engi
 - 📈 Learning about **Crypto, Investing, and Passive Income**
 
 ## 📫 Let's Connect!
-- 🌐 [Website/Portfolio](https://abelk.dev/)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 [Visit My Website](https://abelk.dev/)
+- 🔗 [LinkedIn](https://linkedin.com/in/abel-kiprop-b0449935b)
+- 📧 Email: [https://x.com/AbelKiprop04](mailto:https://x.com/AbelKiprop04)
 
 ### ⚡ Fun Fact
 I believe in **step-by-step implementation** to debug efficiently and minimize errors. Let's build something great together! 🚀
